@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gaurav Pandey from India 🇮🇳</h1>
 <h3 align="center">The DevOps Guy who ❤️ automating stuff</h3>
 
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravpandey44&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpandey44" /> </p>
 
 - 🔭 I’m currently working on **automating the stuff using tools like Jenkins.**
@@ -58,4 +60,3 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravpandey44&show_icons=true&hide=stars,issues" alt="gauravpandey44" /></p>
-
