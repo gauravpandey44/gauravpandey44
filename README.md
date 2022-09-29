@@ -1,5 +1,21 @@
 <h1 align="center">Hi 👋, I'm Gaurav Pandey from India 🇮🇳</h1>
 <h3 align="center">The DevOps Guy who ❤️ automating stuff</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/pandeygauravcse/" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="yatharth7" width="22px" />
+</a>
+  &nbsp;&nbsp;
+<a href="https://www.reddit.com/user/gauravpandey44" target="_blank">
+  <img align="center" src="https://i.pinimg.com/originals/f7/80/6c/f7806c9cd7d5e52cbb148541327a6b87.jpg" alt="gauravpandey44" width="22px" />
+</a>
+  &nbsp;&nbsp;
+<a href="https://www.instagram.com/gaurav_pandeyyyy/" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="gaurav_pandeyyyy" width="22px" />
+</a>
+  &nbsp;&nbsp;
+<a href="https://study.eventourpia.com/" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/wordpress.svg" alt="gauravpandey_blogs" width="22px" />
+</a></p>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 
@@ -52,11 +68,7 @@
 #### Editor / IDE I ♥
 <p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/>
   
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pandeygauravcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pandeygauravcse" height="30" width="40" /></a>
-<a href="https://www.reddit.com/user/gauravpandey44" target="blank"><img align="center" src="https://seeklogo.com/images/R/reddit-logo-23F13F6A6A-seeklogo.com.png" alt="gauravpandey44" height="30" width="40" /></a>
-</p>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravpandey44&show_icons=true&hide=stars,issues" alt="gauravpandey44" /></p>
